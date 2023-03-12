@@ -1,0 +1,21 @@
+img {
+  width: 10vmax;
+  margin: 1vmax;
+  cursor: pointer;
+}
+
+Card {
+  border: transparent;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.3vmax;
+  color: rgb(13, 145, 227);
+  transition: all 0.5s;
+  margin: 0.5vmax;
+}
+
+a:hover {
+  color: rgb(2, 76, 91);
+}

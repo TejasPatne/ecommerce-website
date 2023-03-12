@@ -1,0 +1,19 @@
+.speedDial {
+  position: fixed;
+  right: 2vmax;
+  top: 8vmax;
+}
+
+.speedDialIcon {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+}
+
+.speedDialIcon {
+  background-color: rgb(255, 225, 187);
+}
+
+.dropdownitme {
+  width: auto;
+}
